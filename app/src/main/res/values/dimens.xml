@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="popup_item">20sp</dimen>
+    <dimen name="text_common_content">16sp</dimen>
+    <dimen name="text_common_btn">12sp</dimen>
+</resources>

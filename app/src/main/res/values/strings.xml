@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCVDemo</string>
+    <string name="layerNumber">111</string>
+    <string name="horrizontalSizeUnit">15</string>
+</resources>
